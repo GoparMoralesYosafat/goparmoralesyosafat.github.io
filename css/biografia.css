@@ -1,0 +1,39 @@
+.titulo-principal{
+  font: 40px italic;
+  color: #FE2E2E;
+  text-align: center;
+  text-shadow: 2px 2px #000000;
+} 
+
+.imagen{
+  display: block;
+  margin: auto;
+  border-color: black;
+  border-style: solid;
+}
+
+.contenido{
+    font-size: 30px;
+    font-family: "Arial";
+    border-width: thick;	
+    border-style: none;	
+    padding: 2px;
+    max-width: 1012px;
+    text-align: justify;
+    margin:auto;
+}
+
+span{
+  text-shadow: 3px 3px red;
+  font-size: 80px;
+  font-family: serif;
+  background-color: #00BFFF;
+}
+
+em{
+  background-color: #F7FE2E;
+}
+
+body{
+    background-color: #E1F5A9;
+}

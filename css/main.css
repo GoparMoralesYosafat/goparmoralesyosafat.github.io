@@ -1,0 +1,41 @@
+.titulo-principal {
+   font: italic bold 40px serif;
+   color: #01A9DB;
+   text-align: center;
+   text-shadow: 2px 2px #FFB85F;
+ }
+ 
+ .lista {
+   width: 20%;
+ }
+ 
+ .lista ul{
+   list-style-type: none;
+   padding-left: 0px;
+}
+
+.lista ul li{
+   padding-left: 10px;
+   margin-top: 10px;
+   border-color: #01A9DB;
+   border-style: solid;
+}
+
+.imagen{
+  display: block;
+  margin: auto;
+  border-color: black;
+  border-style: solid;
+}
+
+body{
+    background-color: #E1F5A9;
+}
+
+.pie {
+   background-color: black;
+ }
+ .pie p {
+   text-align: center;
+   color: #F8F8F2;
+ }
